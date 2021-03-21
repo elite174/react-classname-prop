@@ -1,5 +1,5 @@
 {
-  "name": "react-classname-prop",
+  "name": "@elite174/react-classname-prop",
   "version": "1.0.0",
   "description": "A helper interface for React className property",
   "main": "index.js",
@@ -12,5 +12,13 @@
     "helper"
   ],
   "author": "Vladislav Lipatov",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite174/react-classname-prop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elite174/react-classname-prop/issues"
+  },
+  "homepage": "https://github.com/elite174/react-classname-prop#readme"
 }
