@@ -1,0 +1,16 @@
+{
+  "name": "react-classname-prop",
+  "version": "1.0.0",
+  "description": "A helper interface for React className property",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "className",
+    "helper"
+  ],
+  "author": "Vladislav Lipatov",
+  "license": "MIT"
+}
